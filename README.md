@@ -1,4 +1,4 @@
-## 技嘉 BRIX BG-BRi7H-8550 黑苹果 OpenCore EFI
+## 技嘉 BRIX GB-BRi7H-8550 黑苹果 OpenCore EFI
 
 <img src="Screenshot/Motherbord.jpg" alt="image" style="zoom: 67%;" />
 
